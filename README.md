@@ -1,6 +1,6 @@
 #RESTful API – JPA & Exception Handling
 
-Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş basit bir RESTful API uygulamasıdır. Katmanlı mimari ile yapılandırılmıştır ve özelleştirilmiş exception (hata) yönetimi içermektedir.
+Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş RESTful API uygulamasıdır. Katmanlı mimari ile yapılandırılmıştır ve özelleştirilmiş exception (hata) yönetimi içermektedir.
 
 📌 Özellikler
 
@@ -51,7 +51,7 @@ Exception ile hata fırlatma Örnekleri  :
 
 Bu versiyonda aşağıdaki geliştirmeler yapılmıştır:
 
-- Temel CRUD işlemleri
+- CRUD işlemleri
 - JPA kullanılarak veri erişimi
 - Lombok ile sade kod yapısı
 - Global exception handling
